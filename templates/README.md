@@ -1,11 +1,7 @@
 #Target3001
-####templates and examples
+####templates-and-examples
 
 --
-
-###Examples
-
-coming soon ...
 
 ###Templates
 
