@@ -3,6 +3,12 @@
 
 --
 
+###About
+
+[Target3001!](http://www.ibfriedrich.com/) is a CAD program for EDA and PCB design.  
+This repo contains templates and exmaples of PCBs (Printed Circuit Boards) made for and with Target3001!.  
+Most of the Boards use the MCU Atmega 328 from Atmel.  
+
 ###Examples
 
 coming soon ...
